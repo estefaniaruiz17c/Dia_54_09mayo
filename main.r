@@ -113,12 +113,6 @@ Número de columnas del dataframe: \n")
 print(ncol(doc2))
 
 cat("\n")
-# Veremos que esta información aparece almacenada en forma de dataframe
-cat("\n 
-Es un dataframe? : \n")
-print(is.data.frame(doc1))
-
-cat("\n")
 cat("\n")
 # Se solicitó al dueño del zoo conocer la información del animal que tiene mayor cantidad animales
 cat("\n 
